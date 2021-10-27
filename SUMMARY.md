@@ -4,11 +4,13 @@
 
 ## 指南 <a href="guides" id="guides"></a>
 
-* [开始](guides/getting-started.md)
-* [Program工具集](guides/program-tools/README.md)
-  * [Label Stata](guides/program-tools/label-stata.md)
-* [Academic工具集](guides/academic-tools/README.md)
-  * [Follow Journal](guides/academic-tools/follow-journal.md)
+* [开始](guides/getting-started/README.md)
+  * [更改语言](guides/getting-started/change-language.md)
+  * [帮助文件](guides/getting-started/help-files.md)
+* [程序工具集](guides/program-tools/README.md)
+  * [Stata标签](guides/program-tools/label-stata.md)
+* [学术工具集](guides/academic-tools/README.md)
+  * [追踪期刊](guides/academic-tools/follow-journal.md)
 
 ## 额外内容 <a href="extras" id="extras"></a>
 

@@ -4,16 +4,18 @@ description: >-
   newest articles!
 ---
 
-# Follow Journal
+# 追踪期刊
 
 ## 开始
 
-该工具在“Academic”选项卡下。点击“Launch”启动该工具。
+该工具在“应用”选项卡下。点击“启动”启动该工具。
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/FollowJournal1.png)
 
-## 开始
+## 使用
 
-输入杂志名称，选择搜索引擎，点击“Search”即可。
+输入杂志名称，选择搜索引擎，点击“检索”即可。
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/FollowJournal2.png)
+
+![](../../.gitbook/assets/FollowJournal3.png)

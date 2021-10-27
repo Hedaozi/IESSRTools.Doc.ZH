@@ -1,16 +1,10 @@
----
-description: >-
-  Import variables label table and value-labels table, then generate Stata code
-  of the labelling operations.
----
-
-# Label Stata
+# Stata标签
 
 ## 开始
 
-本工具位于"Program"栏下。点击“Launch”启动工具。
+本工具位于"应用"栏下。点击“启动”启动工具。
 
-![](<../../.gitbook/assets/image (5).png>)
+![](../../.gitbook/assets/LabelStata1.png)
 
 ## 使用
 
@@ -26,11 +20,15 @@ description: >-
 工作表和列名可以随意命名。**每一张工作表都应当包含标题行。**
 {% endhint %}
 
+{% hint style="info" %}
+选择“菜单栏 → 文件 → 使用样例”，可以查看样例.xlsx文件。
+{% endhint %}
+
 ### 第一步 导入.xlsx文件
 
-点击"Files -> Import"以导入.xlsx文件。
+点击"文件 -> 导入"以导入.xlsx文件。
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/LabelStata2.png)
 
 {% hint style="info" %}
 请确保文件没有被其他进程占用，尤其是Excel。
@@ -40,14 +38,16 @@ description: >-
 
 选择工作表和列。
 
-![](<../../.gitbook/assets/image (3).png>)
+![](../../.gitbook/assets/LabelStata3.png)
 
 ### 第三步 生成Stata命令
 
-点击"Generate -> Stata Command"以生成Stata命令。你将看到以下窗口。点击"Save As"将其保存到本地的.do文件。
+点击“生成 -> Stata命令”以生成Stata命令。你将看到以下窗口。点击“另存为”将其保存到本地的.do文件。
 
-![](<../../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/LabelStata4.png)
+
+![](../../.gitbook/assets/LabelStata5.png)
 
 {% hint style="info" %}
-你可以在此窗口上编辑。“Save As”会将编辑的结果保存。
+你可以在此窗口上编辑。“另存为”会将编辑的结果保存。
 {% endhint %}
